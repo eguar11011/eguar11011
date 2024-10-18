@@ -23,3 +23,6 @@
 - 🛰️ **Experience with Satellite Imagery**:
 
     Completed an internship at [Fregata Space](https://www.fregataspace.com/) working with satellite imagery and deep learning techniques.
+------------------------------------------------------------------------------------------------------
+
+Who is the man in the photo? It's [Good Time Johnny](https://en.wikipedia.org/wiki/John_von_Neumann)
