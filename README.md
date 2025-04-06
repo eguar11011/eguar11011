@@ -11,3 +11,6 @@
 
     🛠️ Building a Server
     Currently designing and implementing a custom server to support my experiments and personal projects.
+    
+    🔁 Researching Continual Learning
+    Investigating continual learning techniques, conducting experiments to identify challenges like catastrophic forgetting, and exploring solutions to enable long-term knowledge retention.
