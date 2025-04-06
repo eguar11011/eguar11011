@@ -1,28 +1,13 @@
-## 👾 I am actively pursuing:
+👾 I am actively pursuing:
 
-- 🐍 **Learning Advanced Python**:
-  
-  Delving into the advanced implementation of Python to understand its internal workings.
+    🧠 Understanding Deep Learning
+    Studying Understanding Deep Learning by Simon J.D. Prince to build a deeper theoretical and intuitive understanding of modern neural networks.
 
-- 📚 **Investigating Continual Learning**:
+    🚀 Programming Massively Parallel Processors
+    Learning GPU programming through Programming Massively Parallel Processors: A Hands-on Approach by Wen-mei W. Hwu, David B. Kirk, and Izzat El Hajj, focusing on parallel architectures and CUDA.
 
-    Exploring and conducting experiments to identify and address the root issues associated with continual learning.
-  
-- 🤖 **Studying Reinforcement Learning**:
+    ➕ Exploring Algebra and Analysis
+    Diving into Topics in Algebra and Analysis by Radmila Bulajich Manfrino, José Antonio Gómez Ortega, and Rogelio Valdez Delgado to strengthen my mathematical foundation.
 
-    Analyzing the behavior of continual learning experiments within the context of reinforcement learning.
-  
-- 🎲 **Developing Board Games**:
-
-    Implementing existing board games and others I have invented, testing their functionality in various scenarios.
-  
-- 🧠 **Mentoring in Deep Learning**:
-
-    Working with two students, teaching them about deep learning and supporting their development in the field.
-  
-- 🛰️ **Experience with Satellite Imagery**:
-
-    Completed an internship at [Fregata Space](https://www.fregataspace.com/) working with satellite imagery and deep learning techniques.
-------------------------------------------------------------------------------------------------------
-
-Who is the man in the photo? It's [Good Time Johnny](https://en.wikipedia.org/wiki/John_von_Neumann)
+    🛠️ Building a Server
+    Currently designing and implementing a custom server to support my experiments and personal projects.
